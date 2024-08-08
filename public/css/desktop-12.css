@@ -1,0 +1,379 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-12-Cka {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9200000167) -0%, #9fa5b0 100%);
+}
+.desktop-12-Cka .rectangle-4-KaJ {
+  width: 130rem;
+  height: 94rem;
+  position: absolute;
+  left: 7rem;
+  top: 6.1rem;
+  background: linear-gradient(180deg, #1a1b1f -0%, #162344 57.41%, #142960 100%);
+}
+.desktop-12-Cka .salir-yuk {
+  width: 4.1rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 126.7rem;
+  top: 26rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-Cka .rectangle-27-HfY {
+  width: 27.9rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 71.4rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-12-Cka .rectangle-28-zZx {
+  width: 27.9rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 57.2rem;
+  top: 71.6rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-12-Cka .gruas-hzA {
+  width: 6.8rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 67.8rem;
+  top: 88.75rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-Cka .rectangle-29-aHG {
+  width: 27.9rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 103.8rem;
+  top: 71.4rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-12-Cka .montacargas-5zi {
+  width: 14.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 110.3rem;
+  top: 89.35rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-Cka .rectangle-13-aRg {
+  width: 27.9rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 11.1rem;
+  top: 42.6rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-12-Cka .maquinaria-pesada-VHk {
+  width: 22rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 60.75rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-Cka .maquinaria-pesada-bra {
+  width: 22rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 60.75rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-Cka .maquinaria-agricola-Kna {
+  width: 22.9rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 88.75rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-Cka .rectangle-25-pjL {
+  width: 27.9rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 57.2rem;
+  top: 42.6rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-12-Cka .maquinaria-perforacion-JeW {
+  width: 26.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 57.9rem;
+  top: 59.85rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-12-Cka .group-16-psk {
+  box-sizing: border-box;
+  padding: 4.2rem 2.1rem 1.95rem 2.2rem;
+  width: 27.9rem;
+  height: 23.2rem;
+  position: absolute;
+  left: 103.8rem;
+  top: 42.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-12-Cka .group-16-psk .concreto-1-coc {
+  margin-bottom: 1.45rem;
+  width: 22rem;
+  height: 12.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.desktop-12-Cka .group-16-psk .maquinaria-concreto-YBU {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-12-Cka .group-1-dCv {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 1.4rem 8.5rem;
+  width: 51.1rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 44.7rem;
+  top: 6rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-12-Cka .group-1-dCv .person-digging-solid-1-6sC {
+  margin-right: 0.9234rem;
+  width: 8.9766rem;
+  height: 11.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-12-Cka .group-1-dCv .cosva-Qst {
+  margin-top: 0.1rem;
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-12-Cka .group-1-dCv .cosva-Qst .cosva-Qst-sub-0 {
+  font-size: 9.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-12-Cka .group-1-dCv .cosva-Qst .cosva-Qst-sub-1 {
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-12-Cka .group-2-aZQ {
+  box-sizing: border-box;
+  padding: 2.3rem 27.9rem 2.374rem 7.1rem;
+  width: 130rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 7rem;
+  top: 22.3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-12-Cka .group-2-aZQ .navlink-3ht {
+  text-decoration: none;
+  margin-right: 35.1rem;
+  width: 11rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-12-Cka .group-2-aZQ .sucursales-A1p {
+  text-decoration: none;
+  margin: 0.074rem 16.4rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 110px;
+}
+.desktop-12-Cka .group-2-aZQ .auto-group-ncje-RiS {
+  margin: 0.445rem 0rem 0.39rem 0rem;
+  box-sizing: border-box;
+  padding-top: 0.0548rem;
+  width: 20.2rem;
+  height: calc(100% - 0.8355rem);
+  flex-shrink: 0;
+}
+.desktop-12-Cka .group-2-aZQ .auto-group-ncje-RiS .navlink-YHG {
+  text-decoration: none;
+  margin-right: 3.7rem;
+  width: 16.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-12-Cka .group-2-aZQ .auto-group-ncje-RiS .navlink-YHG .navlink-YHG-sub-0 {
+  text-decoration: none;
+
+}
+.desktop-12-Cka .group-2-aZQ .auto-group-ncje-RiS .navlink-YHG .navlink-YHG-sub-1 {
+  text-decoration: none;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-12-Cka .maquinariapesada-1-9H4 {
+  width: 22rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 46.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-12-Cka .maquianperfo-1-THk {
+  width: 22rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 46.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-12-Cka .agricola-1-wCv {
+  width: 22rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 14.1rem;
+  top: 74.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-12-Cka .gruas-1-GW6 {
+  width: 22rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 60.4rem;
+  top: 74.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.desktop-12-Cka .montacargas-1-oW2 {
+  width: 22rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 106.8rem;
+  top: 74.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}

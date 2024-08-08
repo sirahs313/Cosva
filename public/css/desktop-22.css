@@ -1,0 +1,178 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 72.1rem;
+}.desktop-22-WcS {
+  box-sizing: border-box;
+  padding: 2.5rem 1.9rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-22-WcS .group-12-rAW {
+  box-sizing: border-box;
+  padding: 1.4rem 1.1rem 2.8rem 3.7rem;
+  width: 700px;
+  height: 100%;
+  row-gap: 5.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #1a1b1f -0%, #142960 100%);
+}
+.desktop-22-WcS .group-12-rAW .auto-group-zatl-xjL {
+  margin-left: 14.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-zatl-xjL .person-digging-solid-2-KJz {
+  margin-right: 1.8rem;
+  width: 8.1rem;
+  height: 8.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-zatl-xjL .cosva-FiS {
+  margin: 0.9rem 11.7rem 0rem 0rem;
+  font-size: 7rem;
+  font-weight: 800;
+  line-height: 1.2102272034;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-zatl-xjL .cosva-FiS .cosva-FiS-sub-0 {
+  font-size: 7rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-22-WcS .group-12-rAW .auto-group-zatl-xjL .cosva-FiS .cosva-FiS-sub-1 {
+  font-size: 7rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-22-WcS .group-12-rAW .auto-group-zatl-xjL .group-15-pYa {
+  width: 3.3rem;
+  height: 3.8rem;
+  cursor: pointer;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-zatl-xjL .group-15-pYa .button-yAa {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+}
+.desktop-22-WcS .group-12-rAW .buscar-sucursal-RHU {
+  margin-right: 0.6rem;
+  color: #ffffff;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-7s6r-9zA {
+  margin-right: 2.5rem;
+  box-sizing: border-box;
+  padding: 2.4rem 8rem 5.9rem 8rem;
+  width: 61rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-7s6r-9zA .mapa-1-1-Tzr {
+  margin-bottom: 6rem;
+  width: 17.2rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-7s6r-9zA .ingresa-tu-codigo-postal-b5U {
+  margin-bottom: 5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-7s6r-9zA .input-1-ubx {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-7s6r-9zA .mundo-1-d2A {
+  margin-bottom: 5.8rem;
+  width: 6.4rem;
+  height: 6.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-22-WcS .group-12-rAW .auto-group-7s6r-9zA .button-ZAi {
+  margin: 0 7.8rem;
+  width: calc(100% - 15.6rem);
+  height: 6.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}

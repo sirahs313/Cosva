@@ -1,0 +1,433 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+header{
+  width: 100%;
+  height: 80px;
+  margin-top: 40px;
+  position: fixed;
+  z-index: 1;
+  padding: 40px;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-9T8 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9200000167) -0%, #9fa5b0 100%);
+}
+.desktop-1-9T8 .rectangle-1-gT4 {
+  width: 130rem;
+  height: 94rem;
+  position: absolute;
+  left: 7rem;
+  top: 4.2rem;
+  background: linear-gradient(180deg, #1a1b1f -0%, #142960 100%);
+}
+.desktop-1-9T8 .image-2-PsG {
+  width: 57.8rem;
+  height: 19.8rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-9T8 .group-2-gbU {
+  box-sizing: border-box;
+  padding: 3.1rem 1rem 3.2rem 9.65rem;
+  width: 130rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 7rem;
+  top: 22.3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-9T8 .group-2-gbU .inicio-kbL {
+  margin: 0.1rem 24.35rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-2-gbU .navlink-RhU {
+  text-decoration: none;
+  margin-right: 13.9rem;
+  width: 14.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-2-gbU .navlink-usY {
+  text-decoration: none;
+  margin: 1.2rem 16.9rem 0rem 0rem;
+  width: 14.9rem;
+  height: 4.9rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-2-gbU .navlink-D7Y {
+  text-decoration: none;
+  margin: 1.1rem 0rem 0.6rem 0rem;
+  width: 28.9rem;
+  height: calc(100% - 1.7rem);
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .maquinaria-destacada-F4E {
+  color: white;
+  width: 51.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 47.8rem;
+  top: 37.2rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-9T8 .group-4-LLa {
+  width: 118.5466rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 91.6rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-9T8 .group-4-LLa .siguenos-4nN {
+  color: #F7CE90;
+  margin: 0.3rem 13.084rem 0rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .facebook-xcr {
+  text-decoration: none;
+  margin: 0.3rem 18.566rem 0.4rem 0rem;
+  height: calc(100% - 0.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .facebook-xcr .vector-sE2 {
+  text-decoration: none;
+  margin-right: 1.4162rem;
+  width: 4.1429rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .facebook-xcr .facebook-zpS {
+  text-decoration: none;
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .instagram-JaE {
+  
+  margin: 0.3rem 15.593rem 0.4rem 0rem;
+  height: calc(100% - 0.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .instagram-JaE .vector-qq4 {
+  
+  
+  margin-right: 1.8521rem;
+  width: 4.1188rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .instagram-JaE .instagram-Npz {
+  text-decoration: none;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .twitter-WRQ {
+  margin-bottom: 0.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .twitter-WRQ .vector-TrS {
+  margin-right: 1.956rem;
+  width: 4.1178rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-4-LLa .twitter-WRQ .twitter-1NA {
+  text-decoration: none;
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .ver-mas-1-wmc {
+  width: 28.4rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 15.9rem;
+  top: 77.8rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+}
+.desktop-1-9T8 .group-18-kDG {
+  width: 118.8rem;
+  height: 42rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 44.4rem;
+  display: flex;
+  column-gap: 6.9rem;
+  align-items: center;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zhru-4Ur {
+  box-sizing: border-box;
+  padding: 3.9rem 2.7rem 4.1rem 2.7rem;
+  width: 35rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zhru-4Ur .maquina1-1-mPG {
+  margin-bottom: 2.65rem;
+  width: 29.6rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zhru-4Ur .retroexcavadora-VaA {
+  margin: 0rem 0.7rem 3.65rem 0rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zhru-4Ur .ver-mas-4-P9k {
+  margin: 0 0.6rem;
+  width: calc(100% - 1.2rem);
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zzvn-v3C {
+  box-sizing: border-box;
+  padding: 3.9rem 2.6rem 4.1rem 2.8rem;
+  width: 35rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zzvn-v3C .maquina2-1-Rke {
+  margin: 0rem 0.2rem 2.65rem 0rem;
+  width: 29.4rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zzvn-v3C .cargadora-Lsc {
+  margin: 0rem 0.2rem 3.65rem 0rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-zzvn-v3C .ver-mas-2-f9C {
+  margin-left: 1.2rem;
+  width: 28.4rem;
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-u6yq-e18 {
+  box-sizing: border-box;
+  padding: 3.9rem 1.9rem 4.1rem 3.7rem;
+  width: 35rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-u6yq-e18 .maquina3-1-iFt {
+  margin-bottom: 2.65rem;
+  width: 29.4rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-u6yq-e18 .aplanadora-1kn {
+  margin: 0rem 0.1rem 3.65rem 0rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-9T8 .group-18-kDG .auto-group-u6yq-e18 .ver-mas-3-L2N {
+  margin-right: 1rem;
+  width: 28.4rem;
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+@media screen and (max-width: 768px) {
+  body {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  button {
+    font-size: 20px;
+  }
+}

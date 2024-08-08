@@ -1,0 +1,338 @@
+ /* Estilos CSS Home */
+ .popup-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.popup {
+  display: none;
+  position: relative;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  z-index: 1001;
+}
+
+.Desktop1 {
+  width: 1400px;
+  height: 1024px;
+  position: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.92) 0%, #9FA5B0 100%);
+}
+
+.Rectangle1 {
+  width: 1300px;
+  height: 940px;
+  left: 70px;
+  top: 42px;
+  position: absolute;
+  background: linear-gradient(180deg, #1A1B1F 0%, #142A61 100%);
+}
+
+.Image2 {
+  width: 596px;
+  height: 159px;
+  left: 454px;
+  top: 35px;
+  position: absolute;
+}
+.Rectangle12 {
+  width: 350px;
+  height: 420px;
+  left: 126px;
+  top: 444px;
+  position: absolute;
+  background: linear-gradient(180deg, #95ADAD 0%, rgba(54.79, 252.88, 252.88, 0.50) 100%);
+  border-radius: 20px;
+}
+.Rectangle13 {
+  width: 350px;
+  height: 420px;
+  left: 545px;
+  top: 444px;
+  position: absolute;
+  background: linear-gradient(180deg, #95ADAD 0%, rgba(54.79, 252.88, 252.88, 0.50) 100%);
+  border-radius: 20px;
+}
+.Rectangle14 {
+  width: 350px;
+  height: 420px;
+  left: 964px;
+  top: 444px;
+  position: absolute;
+  background: linear-gradient(180deg, #95ADAD 0%, rgba(54.79, 252.88, 252.88, 0.50) 100%);
+  border-radius: 20px;
+}
+.Rectangle3 {
+  width: 1300px;
+  height: 181px;
+  left: 70px;
+  top: 42px;
+  position: absolute;
+}
+.Group2 {
+  width: 1300px;
+  height: 124px;
+  left: 70px;
+  top: 223px;
+  position: absolute;
+}
+
+.Rectangle2 {
+  width: 1300px;
+  height: 124px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  border: 1px white solid;
+}
+.Navlink {
+  width: 289px;
+  height: 44px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  left: 1001px;
+  top: 42px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: inline-flex;
+}
+.selector {
+  color: white;
+  font-size: 20px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+/* Estilo para la clase MaquinariaDestacada */
+.MaquinariaDestacada {
+  left: 519px;
+  top: 373px;
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  font-family: 'Mulish', sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* Estilo para la clase Cargadora */
+.Cargadora {
+  left: 629px;
+  top: 696px;
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  font-family: 'Mulish', sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* Estilo para la clase Aplanadora */
+.Aplanadora {
+  left: 1047px;
+  top: 696px;
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  font-family: 'Mulish', sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* Estilo para la clase Retroexcavadora */
+.Retroexcavadora {
+  left: 153px;
+  top: 696px;
+  position: absolute;
+  color: white;
+  font-size: 36px;
+  font-family: 'Mulish', sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* Estilo para las imágenes de Maquina11, Maquina21, y Maquina31 */
+
+.Maquina31 {
+  width: 294px;
+  height: 186px;
+  left: 1001px;
+  top: 483px;
+  position: absolute;
+  border-radius: 20px;
+}
+
+/* Estilo para la clase Group4 y sus hijos (Siguenos, Twitter, Facebook, Instagram) */
+.Group4 {
+  width: 1188px;
+  height: 44px;
+  left: 126px;
+  top: 919px;
+  position: absolute;
+}
+
+.Siguenos {
+  width: 219.28px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  color: #F7CE90;
+  font-size: 30px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  word-wrap: break-word;
+}
+
+.Twitter {
+  width: 88.53px;
+  left: 1099.47px;
+  top: 4px;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  word-wrap: break-word;
+}
+/* Estilo para el enlace Facebook */
+.Facebook {
+  width: 119.42px;
+  left: 399.43px;
+  top: 7px;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  word-wrap: break-word;
+}
+
+
+/* Estilo para el enlace Instagram */
+.Instagram {
+  width: 124.56px;
+  left: 761.80px;
+  top: 5px;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  word-wrap: break-word;
+}
+
+
+/* Estilos para VerMas1, VerMas2, VerMas3, y VerMas4 */
+/* Estilo para el contenedor VerMas */
+.VerMas1 {
+  width: 284px;
+  height: 45px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  left: 159px;
+  top: 778px;
+  position: absolute;
+  background: linear-gradient(180deg, #FF6079 0%, #FE3051 100%);
+  border-radius: 6px;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+}
+
+
+
+
+/* Estilos para las imágenes de Facebook1, Facebook2, y Facebook3 */
+.Facebook1 {
+  width: 44px;
+  height: 42px;
+  left: 467px;
+  top: 918px;
+  position: absolute;
+}
+.Facebook3 {
+  width: 44px;
+  height: 42px;
+  left: 1162px;
+  top: 919px;
+  position: absolute;
+}
+.Facebook2 {
+  width: 44px;
+  height: 42px;
+  left: 825px;
+  top: 918px;
+  position: absolute;
+}
+
+
+ /* CSS CONTACTO */
+
+ .Desktop28 {
+  width: 14O0px;
+  height: 1024px;
+  position: relative;
+  background: linear-gradient(180deg, white 0%, #9FA5B0 100%);
+}
+.Rectangle9 {
+width: 1400px;
+height: 940px;
+left: 70px;
+top: 42px;
+position: absolute;
+background: linear-gradient(180deg, #1A1B1F 0%, #142A61 100%);
+}
+
+.Salir {
+left: 1236px;
+top: 198px;
+position: absolute;
+color: white;
+font-size: 24px;
+font-family: 'Inter', sans-serif;
+font-weight: 300;
+word-wrap: break-word;
+}
+.DejanosTuMensaje {
+left: 504px;
+top: 318px;
+position: absolute;
+color: white;
+font-size: 40px;
+font-family: 'Inter', sans-serif;
+font-weight: 600;
+word-wrap: break-word;
+}
+.Group2 {
+width: 1300px;
+height: 124px;
+left: 70px;
+top: 158px;
+position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+

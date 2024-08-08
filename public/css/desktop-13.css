@@ -1,0 +1,435 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-13-QGA {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9200000167) -0%, #9fa5b0 100%);
+}
+.desktop-13-QGA .rectangle-1-vkJ {
+  width: 130rem;
+  height: 94rem;
+  position: absolute;
+  left: 7rem;
+  top: 4.2rem;
+  background: linear-gradient(180deg, #1a1b1f -0%, #142960 100%);
+}
+.desktop-13-QGA .rectangle-12-pqg {
+  width: 35rem;
+  height: 42rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 44.4rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-13-QGA .rectangle-13-97G {
+  width: 35rem;
+  height: 42rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 44.4rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-13-QGA .rectangle-14-4V8 {
+  width: 35rem;
+  height: 42rem;
+  position: absolute;
+  left: 96.4rem;
+  top: 44.4rem;
+  background: linear-gradient(180deg, #94adad -0%, rgba(54, 252, 252, 0.5) 100%);
+  border-radius: 2rem;
+}
+.desktop-13-QGA .cosva-P1c {
+  width: 32.7rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 61.4rem;
+  top: 8rem;
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-13-QGA .cosva-P1c .cosva-P1c-sub-0 {
+  font-size: 9.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-13-QGA .cosva-P1c .cosva-P1c-sub-1 {
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-13-QGA .group-2-4vN {
+  box-sizing: border-box;
+  padding: 3.1rem 12rem 3.2rem 9.65rem;
+  width: 130rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 7rem;
+  top: 22.3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-13-QGA .group-2-4vN .inicio-xkr {
+  margin: 0.1rem 17.35rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-2-4vN .navlink-54n {
+  text-decoration: none;
+  margin-right: 11.7rem;
+  width: 14.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-2-4vN .navlink-x8a {
+  text-decoration: none;
+  margin: 0.6rem 13.2rem 0.6rem 0rem;
+  width: 14.9rem;
+  height: calc(100% - 1.2rem);
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-2-4vN .navlink-Ern {
+  text-decoration: none;
+  margin: 0.6rem 10.2rem 0.6rem 0rem;
+  width: 16.5rem;
+  height: calc(100% - 1.2rem);
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-2-4vN .navlink-Ern .navlink-Ern-sub-0 {  
+  text-decoration: none;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+ 
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-13-QGA .group-2-4vN .navlink-Ern .navlink-Ern-sub-1 {
+  text-decoration: none;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+ 
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-13-QGA .group-2-4vN .salir-33Y {
+  text-decoration: none;
+  margin-bottom: 0.4rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .maquinaria-destacada-xRQ {
+  color: #F7CE90;
+  width: 51.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 47.8rem;
+  top: 37.2rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-13-QGA .cargadora-3Sr {
+  width: 18.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 69.55rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-13-QGA .aplanadora-x42 {
+  width: 20.1rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 104.7rem;
+  top: 69.55rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-13-QGA .retroexcavadora-exS {
+  width: 28.9rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 69.55rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-13-QGA .maquina1-1-mGN {
+  width: 29.6rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 48.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.desktop-13-QGA .maquina2-1-geE {
+  width: 29.4rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 57.3rem;
+  top: 48.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.desktop-13-QGA .maquina3-1-pEe {
+  width: 29.4rem;
+  height: 18.6rem;
+  position: absolute;
+  left: 100.1rem;
+  top: 48.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.desktop-13-QGA .group-4-x5x {
+  width: 118.5466rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 91.6rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-13-QGA .group-4-x5x .siguenos-TYW {
+  color: #F7CE90;
+  margin: 0.3rem 13.084rem 0rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .facebook-NfU {
+  margin: 0.3rem 18.566rem 0.4rem 0rem;
+  height: calc(100% - 0.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .facebook-NfU .vector-ufQ {
+  margin-right: 1.4162rem;
+  width: 4.1429rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .facebook-NfU .facebook-FUN {
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .instagram-PKg {
+  margin: 0.3rem 15.593rem 0.4rem 0rem;
+  height: calc(100% - 0.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .instagram-PKg .vector-VtW {
+  margin-right: 1.8521rem;
+  width: 4.1188rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .instagram-PKg .instagram-2dY {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .twitter-yHt {
+  margin-bottom: 0.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .twitter-yHt .vector-WYi {
+  margin-right: 1.956rem;
+  width: 4.1179rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .group-4-x5x .twitter-yHt .twitter-Di2 {
+  margin-top: 0.4rem;
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-13-QGA .person-digging-solid-3-A7U {
+  width: 10.4994rem;
+  height: 8.8156rem;
+  position: absolute;
+  left: 49.1998rem;
+  top: 8.4844rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-13-QGA .ver-mas-1-HC6 {
+  width: 28.4rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 15.6rem;
+  top: 78.6rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+}
+.desktop-13-QGA .ver-mas-2-vVx {
+  width: 28.4rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 58.5rem;
+  top: 78.6rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+}
+.desktop-13-QGA .ver-mas-3-no4 {
+  width: 28.4rem;
+  height: 4.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 100.6rem;
+  top: 78.6rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+}

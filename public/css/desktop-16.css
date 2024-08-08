@@ -1,0 +1,140 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 67.3rem;
+}.desktop-16-YJE {
+  width: 700px;
+  height: 103.5rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+}
+.desktop-16-YJE .rectangle-17-srJ {
+  width: 56rem;
+  height: 88.9rem;
+  position: absolute;
+  left: 5.7rem;
+  top: 7.3rem;
+  background: linear-gradient(180deg, #1a1b1f -0%, #142960 100%);
+}
+.desktop-16-YJE .form-y8e {
+  width: 46rem;
+  height: 59rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 28rem;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 2rem;
+}
+.desktop-16-YJE .cosva-TJi {
+  width: 32.7rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 23.5rem;
+  top: 13rem;
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-16-YJE .cosva-TJi .cosva-TJi-sub-0 {
+  font-size: 9.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-16-YJE .cosva-TJi .cosva-TJi-sub-1 {
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-16-YJE .person-digging-solid-3-EMQ {
+  width: 10.4994rem;
+  height: 8.8156rem;
+  position: absolute;
+  left: 11.4998rem;
+  top: 13.4844rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-16-YJE .check-solid-1-wWi {
+  width: 15rem;
+  height: 20rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 61.8rem;
+  overflow: hidden;
+}
+.desktop-16-YJE .circle-solid-1-fBp {
+  width: 18.6427rem;
+  height: 20.2148rem;
+  position: absolute;
+  left: 25.7rem;
+  top: 46.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-16-YJE .circle-regular-1-CSe {
+  width: 12.5rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 28.7rem;
+  top: 50.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-16-YJE .te-has-registrado-con-xito-8bC {
+  width: 31.9rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 19rem;
+  top: 35.2rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-16-YJE .button-RqC {
+  width: 23rem;
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 23rem;
+  top: 74.9rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+}

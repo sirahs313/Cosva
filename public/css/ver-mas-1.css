@@ -1,0 +1,81 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 32.4rem;
+}.ver-mas-1-eqY {
+  box-sizing: border-box;
+  padding: 2rem 2rem 1.1rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.ver-mas-1-eqY .property-1default-kta {
+  margin-bottom: 0.8rem;
+  width: 100%;
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.ver-mas-1-eqY .property-1variant2-CVg {
+  box-sizing: border-box;
+  padding: 0.85rem 1.95rem 0.85rem 1.85rem;
+  width: 100%;
+  height: 16.8rem;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.ver-mas-1-eqY .property-1variant2-CVg .aplicaciones-excavar-cargar-y-manipular-materiales-en-obras-de-construccin-excavaciones-agricultura-y-otras-aplicaciones-6LA {
+  max-width: 24.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #000000;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.ver-mas-1-eqY .property-1variant2-CVg .aplicaciones-excavar-cargar-y-manipular-materiales-en-obras-de-construccin-excavaciones-agricultura-y-otras-aplicaciones-6LA .aplicaciones-excavar-cargar-y-manipular-materiales-en-obras-de-construccin-excavaciones-agricultura-y-otras-aplicaciones-6LA-sub-0 {
+}
+.ver-mas-1-eqY .property-1variant2-CVg .aplicaciones-excavar-cargar-y-manipular-materiales-en-obras-de-construccin-excavaciones-agricultura-y-otras-aplicaciones-6LA .aplicaciones-excavar-cargar-y-manipular-materiales-en-obras-de-construccin-excavaciones-agricultura-y-otras-aplicaciones-6LA-sub-1 {
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.255;
+  color: #000000;
+  font-family: Mulish, 'Source Sans Pro';
+}
+.ver-mas-1-eqY .property-1variant2-CVg .aplicaciones-excavar-cargar-y-manipular-materiales-en-obras-de-construccin-excavaciones-agricultura-y-otras-aplicaciones-6LA .aplicaciones-excavar-cargar-y-manipular-materiales-en-obras-de-construccin-excavaciones-agricultura-y-otras-aplicaciones-6LA-sub-2 {
+}

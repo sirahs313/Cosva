@@ -1,0 +1,94 @@
+.Desktop28 {
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  background: linear-gradient(180deg, white 0%, #9FA5B0 100%);
+}
+.Rectangle9 {
+  width: 1300px;
+  height: 940px;
+  left: 70px;
+  top: 42px;
+  position: absolute;
+  background: linear-gradient(180deg, #1A1B1F 0%, #142A61 100%);
+}
+.Salir {
+  left: 1236px;
+  top: 198px;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+.DejanosTuMensaje {
+  left: 504px;
+  top: 318px;
+  position: absolute;
+  color: white;
+  font-size: 40px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+.Group2 {
+  width: 1300px;
+  height: 124px;
+  left: 70px;
+  top: 158px;
+  position: absolute;
+}
+.Group2 .Rectangle2 {
+  width: 1300px;
+  height: 124px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  border: 1px white solid;
+}
+.Group2 .Navlink:nth-child(1) {
+  width: 165px;
+  height: 49px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  left: 771px;
+  top: 31px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: inline-flex;
+}
+.Group2 .Navlink:nth-child(2) {
+  width: 110px;
+  height: 61px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  left: 85px;
+  top: 25px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: inline-flex;
+}
+.Group2 .Navlink:nth-child(3) {
+  width: 149px;
+  height: 49px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  left: 415px;
+  top: 31px;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  display: inline-flex;
+}

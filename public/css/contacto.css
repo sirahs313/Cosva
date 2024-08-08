@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Desktop28 {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+    background: linear-gradient(180deg, white 0%, #9FA5B0 100%);
+  }
+  
+  .Rectangle9 {
+    width: 1300px;
+    height: 940px;
+    left: 70px;
+    top: 42px;
+    position: absolute;
+    background: linear-gradient(180deg, #1A1B1F 0%, #142A61 100%);
+  }
+  
+  .DejanosTuMensaje {
+    left: 504px;
+    top: 318px;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .Salir {
+    left: 1236px;
+    top: 198px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 300;
+    word-wrap: break-word;
+  }
+  

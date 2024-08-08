@@ -1,0 +1,229 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-7-m2a {
+  box-sizing: border-box;
+  padding: 4.2rem 7rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9200000167) -0%, #9fa5b0 100%);
+}
+.desktop-7-m2a .group-21-VUN {
+  box-sizing: border-box;
+  padding: 3.8rem 5.6rem 3.5rem 5.6rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #1a1b1f -0%, #142960 100%);
+}
+.desktop-7-m2a .group-21-VUN .auto-group-bwmy-QrE {
+  margin: 0rem 37.3rem 2.6rem 36.6rem;
+  width: calc(100% - 73.8998rem);
+  height: 11.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-7-m2a .group-21-VUN .auto-group-bwmy-QrE .person-digging-solid-3-KTQ {
+  margin: 0.484rem 1.701rem 0rem 0rem;
+  width: 10.4994rem;
+  height: 8.8156rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-7-m2a .group-21-VUN .auto-group-bwmy-QrE .auto-group-necr-otN {
+  width: 32.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-7-m2a .group-21-VUN .auto-group-bwmy-QrE .auto-group-necr-otN .navlink-Y5G {
+  text-decoration: none;
+  width: 14.5rem;
+  height: 6.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 3.3rem;
+  top: 4.9rem;
+}
+.desktop-7-m2a .group-21-VUN .auto-group-bwmy-QrE .auto-group-necr-otN .cosva-gBU {
+  width: 32.7rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-7-m2a .group-21-VUN .auto-group-bwmy-QrE .auto-group-necr-otN .cosva-gBU .cosva-gBU-sub-0 {
+  font-size: 9.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-7-m2a .group-21-VUN .auto-group-bwmy-QrE .auto-group-necr-otN .cosva-gBU .cosva-gBU-sub-1 {
+  font-size: 9.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG {
+  margin-bottom: 1.8rem;
+  width: 100%;
+  height: 12.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG .salir-Xzi {
+  width: 4.9rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 106.5rem;
+  top: 4.7rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG .rectangle-2-Dce {
+  width: 118.8rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-sizing: border-box;
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG .navlink-woY {
+  text-decoration: none;
+  width: 16.5rem;
+  height: 4.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 70.4rem;
+  top: 3.7rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG .navlink-woY .navlink-woY-sub-0 {
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG .navlink-woY .navlink-woY-sub-1 {
+  text-decoration: none;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG .inicio-vvN {
+  width: 5.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 9.55rem;
+  top: 4.7rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-7-m2a .group-21-VUN .group-22-bbG .solicitudes-3k6 {
+  text-decoration: none;
+  width: 12.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 39.1rem;
+  top: 4.5rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-7-m2a .group-21-VUN .bienvenido-ZTY {
+  margin: 0rem 2.3rem 2.55rem 0rem;
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-7-m2a .group-21-VUN .bienvenido-ZTY .bienvenido-ZTY-sub-0 {
+}
+.desktop-7-m2a .group-21-VUN .bienvenido-ZTY .bienvenido-ZTY-sub-1 {
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-7-m2a .group-21-VUN .bienvenido-ZTY .bienvenido-ZTY-sub-2 {
+}
+.desktop-7-m2a .group-21-VUN .bienvenido-ZTY .bienvenido-ZTY-sub-3 {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-7-m2a .group-21-VUN .sucursal-piones-norte-cp34929-jPx {
+  margin: 0rem 0.1rem 3.15rem 0rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-7-m2a .group-21-VUN .image-1-dVL {
+  margin-left: 2.9rem;
+  width: 105.5rem;
+  height: 43.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.2rem;
+  flex-shrink: 0;
+}

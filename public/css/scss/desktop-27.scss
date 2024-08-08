@@ -1,0 +1,200 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-27-16S {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+
+  .rectangle-17-LuQ {
+    background: linear-gradient(180deg, #1a1b1f -0%, #142960 100%);
+    width: 130rem;
+    height: 94rem;
+    position: absolute;
+    left: 5.7rem;
+    top: 4.2rem;
+  }
+  .group-7-G2N {
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+    width: 118.6rem;
+    height: 41.1rem;
+    position: absolute;
+    left: 12.6rem;
+    top: 41.5rem;
+
+    .form-aYr {
+      box-sizing: border-box;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      align-items: center;
+      flex-direction: column;
+      padding: 21rem 31.5rem 5.8rem 36.5rem;
+      position: relative;
+      display: flex;
+      background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+      border-radius: 2rem;
+
+      .auto-group-9yee-WSW {
+        width: 100%;
+        height: 7.3rem;
+        flex-shrink: 0;
+        margin-bottom: 1.6rem;
+
+        .input-2-rmG {
+          box-sizing: border-box;
+          background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+          border-radius: 0.6rem;
+          width: 100%;
+          height: 7rem;
+          border: solid 0.1rem #000000;
+        }
+      }
+      .button-B2r {
+        display: flex;
+        font-weight: 700;
+        line-height: 1.255;
+        position: relative;
+        color: #ffffff;
+        justify-content: center;
+        flex-shrink: 0;
+        margin: 0rem 20.6rem 0rem 10.9rem;
+        width: calc(100% - 31.5rem);
+        height: 5.4rem;
+        overflow: hidden;
+        font-family: Mulish, 'Source Sans Pro';
+        white-space: nowrap;
+        background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+        cursor: pointer;
+        font-size: 1.8rem;
+        align-items: center;
+        border-radius: 0.6rem;
+      }
+    }
+  }
+  .iniciar-sesion-M5k {
+    display: flex;
+    font-size: 3.2rem;
+    line-height: 1.255;
+    white-space: nowrap;
+    left: 62.9rem;
+    height: 4.1rem;
+    position: absolute;
+    top: 31.55rem;
+    font-weight: 300;
+    color: #ffffff;
+    font-family: Mulish, 'Source Sans Pro';
+    width: 23.7rem;
+  }
+  .group-30-Sst {
+    height: 5.8rem;
+    position: absolute;
+    left: 54.3rem;
+    top: 5.7rem;
+    width: 44.7rem;
+
+    .rectangle-9-zPc {
+      background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+      width: 41.3rem;
+      height: 1rem;
+      position: absolute;
+      left: 1.7rem;
+      top: 4.8rem;
+    }
+    .bienvenido-cliente-Wsk {
+      font-weight: 300;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      align-items: baseline;
+      width: 44.7rem;
+      position: absolute;
+      top: 0;
+      font-size: 4rem;
+      line-height: 1.2125;
+      display: flex;
+      height: 4.9rem;
+      left: 0;
+
+      .bienvenido-cliente-Wsk-sub-0 {
+      }
+      .bienvenido-cliente-Wsk-sub-1 {
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 4rem;
+        font-weight: 800;
+        line-height: 1.2125;
+        color: #ffffff;
+      }
+    }
+  }
+  .group-3-mSJ {
+    position: absolute;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    padding: 2.923rem 19.6rem 3.226rem 12.8rem;
+    width: 130rem;
+    height: 12.5rem;
+    left: 5.7rem;
+    top: 13.2rem;
+
+    .navlink-Rmk {
+      line-height: 1.2125;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      margin: 0rem 36.6rem 0.202rem 0rem;
+      width: 11rem;
+      align-items: center;
+      height: 6.1492rem;
+      cursor: pointer;
+      font-weight: 300;
+      flex-shrink: 0;
+      font-size: 2.4rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .navlink-4Zp {
+      cursor: pointer;
+      font-size: 2.4rem;
+      flex-shrink: 0;
+      margin: 0.202rem 26.6rem 0rem 0rem;
+      height: 6.1492rem;
+      font-weight: 300;
+      line-height: 1.2125;
+      white-space: nowrap;
+      color: #ffffff;
+      display: flex;
+      justify-content: center;
+      width: 14.5rem;
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+    }
+    .equipos-jfx {
+      margin-top: 0.4024rem;
+      font-weight: 300;
+      line-height: 1.2125;
+      white-space: nowrap;
+      cursor: pointer;
+      font-size: 2.4rem;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      flex-shrink: 0;
+    }
+  }
+}

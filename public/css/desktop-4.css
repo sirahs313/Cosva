@@ -1,0 +1,344 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-4-XNr {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.9200000167) -0%, #9fa5b0 100%);
+}
+.desktop-4-XNr .rectangle-15-eiN {
+  width: 130rem;
+  height: 94rem;
+  position: absolute;
+  left: 7rem;
+  top: 4.2rem;
+  background: linear-gradient(180deg, #1a1b1f -0%, #142960 100%);
+}
+.desktop-4-XNr .button-87k {
+  width: 23rem;
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 60.5rem;
+  top: 89rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ff6079 -0%, #fe3051 100%);
+  border-radius: 0.6rem;
+}
+.desktop-4-XNr .group-24-jdL {
+  width: 118.7rem;
+  height: 25rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 35.3rem;
+}
+.desktop-4-XNr .group-24-jdL .form-pen {
+  width: 118.7rem;
+  height: 25rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 2rem;
+}
+.desktop-4-XNr .group-24-jdL .input-1-JK4 {
+  width: 43.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 0.6rem;
+}
+.desktop-4-XNr .group-24-jdL .input-7-ZEz {
+  width: 43.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 66.7rem;
+  top: 5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 0.6rem;
+}
+.desktop-4-XNr .group-24-jdL .input-6-QmQ {
+  width: 43.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 15.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 0.6rem;
+}
+.desktop-4-XNr .group-24-jdL .nombre-Goc {
+  width: 6.6rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 24rem;
+  top: 1.6rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #090909;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .group-24-jdL .email-yxv {
+  width: 4.6rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 25rem;
+  top: 12.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #090909;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .group-24-jdL .apellido-epA {
+  width: 6.7rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 85.3rem;
+  top: 1.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #090909;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .group-25-Lwt {
+  width: 118.7rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 68.8rem;
+}
+.desktop-4-XNr .group-25-Lwt .form-4st {
+  width: 118.7rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 2rem;
+}
+.desktop-4-XNr .group-25-Lwt .input-9-XFg {
+  width: 40rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 70.6rem;
+  top: 7.2rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 0.6rem;
+}
+.desktop-4-XNr .group-25-Lwt .input-8-DPQ {
+  width: 43.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 7.2rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+  border-radius: 0.6rem;
+}
+.desktop-4-XNr .group-25-Lwt .confirmar-la-contrasea-7za {
+  width: 19.7rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 80.7rem;
+  top: 3.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #090909;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .group-25-Lwt .contrasea-RVU {
+  width: 9.5rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 3.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #090909;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .equipos-uvS {
+  width: 8.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 109.5rem;
+  top: 17.8rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .datos-personales-mBx {
+  width: 32.2rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 29.15rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .contrasea-3QN {
+  width: 21.9rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 62.55rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 1.255;
+  color: #ffffff;
+  font-family: Mulish, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-XNr .group-3-kJn {
+  box-sizing: border-box;
+  padding: 2.9rem 56.8rem 3.2rem 12.8rem;
+  width: 130rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 7rem;
+  top: 13.1rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-4-XNr .group-3-kJn .navlink-r6v {
+  text-decoration: none;
+  margin: 0rem 34.9rem 0.2rem 0rem;
+  width: 11rem;
+  height: 6.1rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-4-XNr .group-3-kJn .navlink-iev {
+  text-decoration: none;
+  margin-top: 0.2rem;
+  width: 14.5rem;
+  height: 6.1rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.desktop-4-XNr .group-23-Dbg {
+  width: 27.2rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 58.9rem;
+  top: 6.4rem;
+}
+.desktop-4-XNr .group-23-Dbg .rectangle-8-Mht {
+  width: 18.5rem;
+  height: 1rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 4.8rem;
+  background: linear-gradient(180deg, #ffffff -0%, #9fa5b0 100%);
+}
+.desktop-4-XNr .group-23-Dbg .registrate-pbU {
+  width: 27.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-4-XNr .group-23-Dbg .registrate-pbU .registrate-pbU-sub-0 {
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-XNr .group-23-Dbg .registrate-pbU .registrate-pbU-sub-1 {
+}
+.form-control{
+  text-align: center;
+  padding: 15px;
+ 
+}
